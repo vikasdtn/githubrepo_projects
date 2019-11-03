@@ -11,7 +11,7 @@
 	<body>
 		<div id="allContent">
 			<div id="myContent">
-				<h1> JSP - Get Server HOST name </h1>
+				<h1> JSP - Get Server HOST name Joker </h1>
 			</div>
 
 			<div id="myExample">
