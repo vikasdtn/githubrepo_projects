@@ -11,6 +11,7 @@
 			<div id="myContent">
 				<h1> JSP - Get Server HOST name </h1>
 			</div>
+
 			<div id="myExample">
 				Server host name is: <b><%=request.getServerName() %></b>
 			</div>
