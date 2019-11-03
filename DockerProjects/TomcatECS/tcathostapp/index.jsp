@@ -6,7 +6,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		<title>Get Server name(hostname) in JSP</title>
-		<link rel="stylesheet" href="/resources/themes/master.css" type="text/css" />
+		<!-- link rel="stylesheet" href="/resources/themes/master.css" type="text/css" /> -->
 	</head>
 	<body>
 		<div id="allContent">
