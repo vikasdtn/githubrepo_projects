@@ -1,13 +1,12 @@
 {
   "name": "signledger",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js application first attempt at a signin portal",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./index.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Vikas Nambiar auth0",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.1"
