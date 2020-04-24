@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="657px" height="356px" viewBox="0 0 657 356" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>AWS Cloud Icon_VN</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="27.511476%" y1="35.9326666%" x2="75.9467691%" y2="96.7131762%" id="linearGradient-1">
+            <stop stop-color="#FAA633" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M381,0 C456.203432,0 520.001601,48.831739 542.416371,116.517081 C598.347047,125.342795 641,171.672501 641,227.5 C641,289.632034 588.1696,340 523,340 C520.858327,340 518.72998,339.945604 516.616396,339.838181 C516.095292,339.943641 515.554228,340 515,340 L85,340 C84.8481227,340 84.697234,339.995768 84.5474452,339.987415 L84.3725568,339.990019 L84.3725568,339.990019 L83,340 C37.1603658,340 0,306.645214 0,265.5 C0,229.416346 28.5800085,199.324304 66.5298967,192.4667 C72.1916915,131.050827 122.623536,83 184,83 C200.204996,83 215.647045,86.3496159 229.703598,92.410473 C257.895277,37.538219 315.063878,0 381,0 Z" id="path-2"></path>
+        <filter x="-2.0%" y="-3.2%" width="104.1%" height="107.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-8.4%" y="-14.3%" width="116.8%" height="128.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AWS-Cloud-Icon_VN" transform="translate(8.000000, 6.000000)">
+            <g id="Combined-Shape">
+                <g>
+                    <g id="Group">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                        <path d="M254.946408,94.2183934 C283.911312,63.9043839 334.606753,34.5194504 381.578141,20.0323194 C380.048147,19.9891386 378.514222,19.9674917 376.976853,19.9674917 C318.814609,19.9674917 269.043895,51.1563298 254.946408,94.2183934 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="4" fill="#FFFFFF" filter="url(#filter-5)" mask="url(#mask-3)" transform="translate(322.056643, 59.863222) rotate(-1.000000) translate(-322.056643, -59.863222) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

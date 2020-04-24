@@ -16,5 +16,8 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get -y install less
 
 CMD ["catalina.sh", "run"]
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 35d3a1bf6e0474e6c427dc0ff51b31b9af944c59
