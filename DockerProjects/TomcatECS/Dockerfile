@@ -15,3 +15,6 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get -y install wget
 RUN DEBIAN_FRONTEND=noninteractive apt-get -y install less
 
 CMD ["catalina.sh", "run"]
+
+
+
